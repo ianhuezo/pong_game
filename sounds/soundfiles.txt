@@ -1,1 +1,0 @@
-These are where all the sounds files needed to run the python game are located
